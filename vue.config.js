@@ -1,5 +1,5 @@
 module.exports = {
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/Web-Form-Vue/'
+    ? '/Web-Form/'
     : '/'
 }
