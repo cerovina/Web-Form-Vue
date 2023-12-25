@@ -114,7 +114,7 @@
     text-align: left;
     padding: 40px;
     border-radius: 10px;
-    border: 10px solid white;
+    border: 10px solid #AB9C41;
   }
   label {
     color: white;
